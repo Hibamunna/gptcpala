@@ -1,0 +1,17 @@
+
+        th,td{
+            color:darkred;
+            border: 2px solid black;
+        }
+        .hello
+        {
+            color: red;
+            border: 2px solid black;
+            /* float:right; */
+            background-color: pink;
+            margin-left: 100px;
+            padding-left: 40px;
+        }
+        #heading3{
+            color: blueviolet;
+        }
